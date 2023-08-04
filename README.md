@@ -1,4 +1,5 @@
 # Weekly_Test_2-HTML
+##Hosted link: https://mayankkatheriya.github.io/Weekly_Test_2-HTML/
 ![1](https://github.com/Mayankkatheriya/Weekly_Test_2-HTML/assets/128832286/9eb7d334-ba51-4142-abee-887fddd53371)
 ![2](https://github.com/Mayankkatheriya/Weekly_Test_2-HTML/assets/128832286/6e0a5580-fb00-449a-a440-4317fb4d9ec4)
 ![3](https://github.com/Mayankkatheriya/Weekly_Test_2-HTML/assets/128832286/406f00b0-81f2-4f7e-8d51-78ca926c8a91)
